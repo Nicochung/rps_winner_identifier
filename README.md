@@ -1,0 +1,2 @@
+# rps_winner_identifier
+This project is for a course called "Computer Vision and Pattern Analysis" at Waseda University, Japan. This project aims to identify the winner of a Rock Paper Scissors game from a given picture (Problems from 15th Algorithm Contest by the Technical Group on Pattern Recognition and Media Understanding (PRMU), the Institute of Electronics, Information and Communication Engineers (IEICE) in 2011).
